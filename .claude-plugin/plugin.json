@@ -1,0 +1,10 @@
+{
+  "name": "pionarius-skills",
+  "version": "1.0.0",
+  "description": "SEO, GEO (AI search visibility), WordPress content and skill-security skills for Claude Code and Claude.",
+  "author": { "name": "Pionarius", "url": "https://pionarius.com" },
+  "homepage": "https://github.com/equipepionarius-collab/claude-skills",
+  "repository": "https://github.com/equipepionarius-collab/claude-skills",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "seo", "geo", "ai-seo", "wordpress", "security"]
+}
