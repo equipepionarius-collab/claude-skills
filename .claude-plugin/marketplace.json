@@ -1,0 +1,11 @@
+{
+  "name": "pionarius",
+  "owner": { "name": "Pionarius", "url": "https://pionarius.com" },
+  "plugins": [
+    {
+      "name": "pionarius-skills",
+      "source": "./",
+      "description": "SEO, GEO (AI search visibility), WordPress content and skill-security skills for Claude Code and Claude."
+    }
+  ]
+}
